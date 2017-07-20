@@ -1,0 +1,5 @@
+/home/frojo/workspace/hello/src/main/java/ar/gov/conicet/lib/hello/service/StudentService.java
+/home/frojo/workspace/hello/src/main/java/ar/gov/conicet/lib/hello/repository/StudentRepository.java
+/home/frojo/workspace/hello/src/main/java/ar/gov/conicet/lib/hello/entity/Student.java
+/home/frojo/workspace/hello/src/main/java/ar/gov/conicet/lib/hello/config/Application.java
+/home/frojo/workspace/hello/src/main/java/ar/gov/conicet/lib/hello/controller/StudentController.java
